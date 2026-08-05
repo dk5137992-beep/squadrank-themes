@@ -1,1 +1,10 @@
-{"themes":[]}
+{
+  "themes": [
+    {
+      "key": "custom_nn_1785912613232",
+      "label": "nn",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_nn_1785912613232.jpg",
+      "imagePath": "images/custom_nn_1785912613232.jpg"
+    }
+  ]
+}
