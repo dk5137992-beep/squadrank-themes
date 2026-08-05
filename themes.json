@@ -5,6 +5,12 @@
       "label": "hq",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_hq_1785913208912.jpg",
       "imagePath": "images/custom_hq_1785913208912.jpg"
+    },
+    {
+      "key": "custom_freedom_1785917240418",
+      "label": "freedom",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_freedom_1785917240418.jpg",
+      "imagePath": "images/custom_freedom_1785917240418.jpg"
     }
   ]
 }
