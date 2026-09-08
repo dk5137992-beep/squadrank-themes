@@ -17,35 +17,6 @@
       "label": "Eagle",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_eagle_1786523695060.png",
       "imagePath": "images/custom_eagle_1786523695060.png"
-    },
-    {
-      "key": "custom_red_1788887279452",
-      "label": "red",
-      "type": "poster",
-      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_red_1788887279452.jpg",
-      "imagePath": "images/custom_red_1788887279452.jpg",
-      "coords": {
-        "tableStartY": 435,
-        "rowH": 44,
-        "columns": {
-          "rankX": 155,
-          "logoX": 155,
-          "logoW": 40,
-          "logoH": 40,
-          "teamX": 375,
-          "matchX": 525,
-          "winX": 855,
-          "posX": 615,
-          "finX": 695,
-          "totalX": 775
-        },
-        "orgLogo": {
-          "x": 162,
-          "y": 80,
-          "w": 140,
-          "h": 140
-        }
-      }
     }
   ]
 }
