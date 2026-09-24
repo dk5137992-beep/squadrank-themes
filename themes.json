@@ -80,6 +80,13 @@
       "type": "result",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_mist_1790254944299.png",
       "imagePath": "images/custom_mist_1790254944299.png"
+    },
+    {
+      "key": "custom_serene_1790255013173",
+      "label": "serene",
+      "type": "result",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_serene_1790255013173.png",
+      "imagePath": "images/custom_serene_1790255013173.png"
     }
   ],
   "message": ""
