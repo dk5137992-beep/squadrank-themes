@@ -26,23 +26,6 @@
       "imagePath": "images/custom_list_1789569062127.jpg"
     },
     {
-      "key": "custom_yellow_1790155707840",
-      "label": "yellow",
-      "type": "teamlist",
-      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_yellow_1790155707840.png",
-      "imagePath": "images/custom_yellow_1790155707840.png",
-      "coords": {
-        "teamlist": {
-          "startY": 0.29505582137161085,
-          "rowH": 0.051834130781499205,
-          "numberX": 0.08771929824561403,
-          "logoX": 0.12360446570972887,
-          "logoSize": 0.03588516746411483,
-          "nameX": 0.1674641148325359
-        }
-      }
-    },
-    {
       "key": "custom_red_1790155875680",
       "label": "red",
       "type": "result",
