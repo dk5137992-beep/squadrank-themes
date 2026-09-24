@@ -38,6 +38,13 @@
       "type": "teamlist",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_blue_rain_1790254267732.png",
       "imagePath": "images/custom_blue_rain_1790254267732.png"
+    },
+    {
+      "key": "custom_blue_veew_1790254334780",
+      "label": "Blue veew",
+      "type": "teamlist",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_blue_veew_1790254334780.png",
+      "imagePath": "images/custom_blue_veew_1790254334780.png"
     }
   ],
   "message": ""
