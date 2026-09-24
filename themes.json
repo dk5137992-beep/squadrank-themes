@@ -45,6 +45,13 @@
       "type": "teamlist",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_blue_veew_1790254334780.png",
       "imagePath": "images/custom_blue_veew_1790254334780.png"
+    },
+    {
+      "key": "custom_red_war_1790254477283",
+      "label": "Red war",
+      "type": "teamlist",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_red_war_1790254477283.png",
+      "imagePath": "images/custom_red_war_1790254477283.png"
     }
   ],
   "message": ""
