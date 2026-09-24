@@ -31,6 +31,13 @@
       "type": "teamlist",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_green_send_1790254198588.png",
       "imagePath": "images/custom_green_send_1790254198588.png"
+    },
+    {
+      "key": "custom_blue_rain_1790254267732",
+      "label": "Blue rain",
+      "type": "teamlist",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_blue_rain_1790254267732.png",
+      "imagePath": "images/custom_blue_rain_1790254267732.png"
     }
   ],
   "message": ""
