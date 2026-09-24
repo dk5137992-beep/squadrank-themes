@@ -87,6 +87,13 @@
       "type": "result",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_serene_1790255013173.png",
       "imagePath": "images/custom_serene_1790255013173.png"
+    },
+    {
+      "key": "custom_havoc_1790255077334",
+      "label": "Havoc",
+      "type": "result",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_havoc_1790255077334.png",
+      "imagePath": "images/custom_havoc_1790255077334.png"
     }
   ],
   "message": ""
