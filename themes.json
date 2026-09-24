@@ -24,6 +24,36 @@
       "type": "teamlist",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_list_1789569062127.jpg",
       "imagePath": "images/custom_list_1789569062127.jpg"
+    },
+    {
+      "key": "custom_hf_1790244531638",
+      "label": "hf",
+      "type": "result",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_hf_1790244531638.jpeg",
+      "imagePath": "images/custom_hf_1790244531638.jpeg",
+      "coords": {
+        "result": {
+          "tableStartY": 0.387037037037037,
+          "rowH": 0.05555555555555555,
+          "columns": {
+            "rankX": 0.1486111111111111,
+            "teamX": 0.2638888888888889,
+            "matchX": 0.34629629629629627,
+            "booyahX": 0.8458333333333333,
+            "killsX": 0.6518518518518519,
+            "placeX": 0.5305555555555556,
+            "totalX": 0.7694444444444445,
+            "logoW": 0.046296296296296294,
+            "logoH": 0.037037037037037035
+          },
+          "orgLogo": {
+            "x": 0.18055555555555555,
+            "y": 0.07037037037037037,
+            "w": 0.1574074074074074,
+            "h": 0.1259259259259259
+          }
+        }
+      }
     }
   ],
   "message": ""
