@@ -24,6 +24,13 @@
       "type": "teamlist",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_list_1789569062127.jpg",
       "imagePath": "images/custom_list_1789569062127.jpg"
+    },
+    {
+      "key": "custom_green_send_1790254198588",
+      "label": "Green Send",
+      "type": "teamlist",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_green_send_1790254198588.png",
+      "imagePath": "images/custom_green_send_1790254198588.png"
     }
   ],
   "message": ""
