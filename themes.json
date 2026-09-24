@@ -59,6 +59,13 @@
       "type": "teamlist",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_red_ff_1790254586571.png",
       "imagePath": "images/custom_red_ff_1790254586571.png"
+    },
+    {
+      "key": "custom_yellow_nut_1790254644468",
+      "label": "Yellow nut",
+      "type": "teamlist",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_yellow_nut_1790254644468.png",
+      "imagePath": "images/custom_yellow_nut_1790254644468.png"
     }
   ],
   "message": ""
