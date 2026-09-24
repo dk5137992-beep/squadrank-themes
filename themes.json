@@ -73,6 +73,13 @@
       "type": "result",
       "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_yellow_war_1790254720859.png",
       "imagePath": "images/custom_yellow_war_1790254720859.png"
+    },
+    {
+      "key": "custom_mist_1790254944299",
+      "label": "Mist",
+      "type": "result",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_mist_1790254944299.png",
+      "imagePath": "images/custom_mist_1790254944299.png"
     }
   ],
   "message": ""
