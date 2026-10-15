@@ -4298,6 +4298,108 @@
           }
         ]
       }
+    },
+    {
+      "key": "custom_certificate_3rd_1792063852775",
+      "label": "certificate #3rd",
+      "type": "extra",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_certificate_3rd_1792063852775.png",
+      "imagePath": "images/custom_certificate_3rd_1792063852775.png",
+      "layout": {
+        "v": 2,
+        "aspect": 0.8,
+        "textColor": "auto",
+        "autoLogo": true,
+        "cert": [
+          {
+            "t": "org",
+            "s": "circle",
+            "x": 0.18098,
+            "y": 0.0333,
+            "w": 0.09474,
+            "h": 0.07814,
+            "r": 0
+          },
+          {
+            "t": "tname",
+            "s": "rrect",
+            "x": 0.29941,
+            "y": 0.04632,
+            "w": 0.3997,
+            "h": 0.04144,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "name",
+            "s": "para",
+            "x": 0.24907,
+            "y": 0.6904,
+            "w": 0.56995,
+            "h": 0.05091,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "logo",
+            "s": "para",
+            "x": 0.18098,
+            "y": 0.6904,
+            "w": 0.08586,
+            "h": 0.04736,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "kills",
+            "s": "rrect",
+            "x": 0.36751,
+            "y": 0.78295,
+            "w": 0.26795,
+            "h": 0.04381,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "rank",
+            "s": "rrect",
+            "x": 0.05959,
+            "y": 0.78443,
+            "w": 0.26943,
+            "h": 0.04262,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "total",
+            "s": "rrect",
+            "x": 0.66654,
+            "y": 0.78334,
+            "w": 0.27387,
+            "h": 0.04262,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "date",
+            "s": "rect",
+            "x": 0.06255,
+            "y": 0.89522,
+            "w": 0.23982,
+            "h": 0.04499,
+            "r": 0
+          },
+          {
+            "t": "orgname",
+            "s": "rect",
+            "x": 0.70503,
+            "y": 0.89285,
+            "w": 0.22946,
+            "h": 0.04854,
+            "r": 0
+          }
+        ]
+      }
     }
   ],
   "message": ""
