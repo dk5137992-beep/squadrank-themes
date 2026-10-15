@@ -3526,6 +3526,97 @@
           }
         ]
       }
+    },
+    {
+      "key": "custom_certificate_7t7_august_29_1792060744616",
+      "label": "certificate 7t7 august 29",
+      "type": "extra",
+      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_certificate_7t7_august_29_1792060744616.png",
+      "imagePath": "images/custom_certificate_7t7_august_29_1792060744616.png",
+      "layout": {
+        "v": 2,
+        "aspect": 0.8,
+        "textColor": "auto",
+        "autoLogo": true,
+        "cert": [
+          {
+            "t": "logo",
+            "s": "rect",
+            "x": 0.54959,
+            "y": 0.29495,
+            "w": 0.39378,
+            "h": 0.27349,
+            "r": 0
+          },
+          {
+            "t": "name",
+            "s": "rect",
+            "x": 0.57328,
+            "y": 0.57082,
+            "w": 0.34937,
+            "h": 0.05209,
+            "r": 0
+          },
+          {
+            "t": "rank",
+            "s": "rrect",
+            "x": 0.05811,
+            "y": 0.78156,
+            "w": 0.27091,
+            "h": 0.03907,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "kills",
+            "s": "rrect",
+            "x": 0.36454,
+            "y": 0.78274,
+            "w": 0.27535,
+            "h": 0.03907,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "total",
+            "s": "rrect",
+            "x": 0.67246,
+            "y": 0.78156,
+            "w": 0.26795,
+            "h": 0.04025,
+            "r": 0,
+            "cr": 0.25
+          },
+          {
+            "t": "date",
+            "s": "rect",
+            "x": 0.06995,
+            "y": 0.90232,
+            "w": 0.22946,
+            "h": 0.03789,
+            "r": 0
+          },
+          {
+            "t": "orgname",
+            "s": "rect",
+            "x": 0.70355,
+            "y": 0.90351,
+            "w": 0.23686,
+            "h": 0.04025,
+            "r": 0
+          },
+          {
+            "t": "tname",
+            "s": "rrect",
+            "x": 0.30237,
+            "y": 0.04514,
+            "w": 0.39674,
+            "h": 0.04262,
+            "r": 0,
+            "cr": 0.25
+          }
+        ]
+      }
     }
   ],
   "message": ""
