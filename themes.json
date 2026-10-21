@@ -1,12 +1,6 @@
 {
   "themes": [
     {
-      "key": "custom_eagle_1786523695060",
-      "label": "Eagle",
-      "image": "https://raw.githubusercontent.com/dk5137992-beep/squadrank-themes/main/images/custom_eagle_1786523695060.png",
-      "imagePath": "images/custom_eagle_1786523695060.png"
-    },
-    {
       "key": "custom_red_war_1790254477283",
       "label": "Red war",
       "type": "teamlist",
